@@ -2,20 +2,23 @@
 # Own files ignored
 ####################################################################################
 
+# Productos resultantes
+artifacts/
+
 # Conjuntos de datos
 data/
 
 # Archivos auxiliares
 extra/
 
-# Archivos de prueba y error
-sandbox/
+# Pautas del proyecto
+guidelines/
 
 # Referencias que son propiedad de terceros
 references/
 
-# Reports en Excel
-reports/**/*.xlsx
+# Archivos de prueba y error
+sandbox/
 
 ####################################################################################
 # VSCode
